@@ -11,7 +11,6 @@ This project implements and simulates three distinct dynamic pricing models for 
     * [Model 2: Demand-Responsive Pricing](#model-2-demand-responsive-pricing)
     * [Model 3: Competitive Pricing](#model-3-competitive-pricing)
 * [Visualizations & Results](#-visualizations--results)
-* [How to Run](#-how-to-run)
 
 ## 📝 Overview
 
